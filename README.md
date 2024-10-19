@@ -8,3 +8,6 @@
 
 ## Filename Python.png
 ### Python.png is a screenshot of the code written in W3Schools Python editor implementing logic using Python.
+
+## Filename: LaTashaFlowerClass.pdf
+### This pdf file is a class diagram of a flower.
