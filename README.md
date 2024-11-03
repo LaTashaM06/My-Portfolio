@@ -11,3 +11,9 @@
 
 ## Filename: LaTashaFlowerClass.pdf
 ### This pdf file is a class diagram of a flower.
+
+## Filename: PythonOOP.png
+### This is a screenshot of the python OOP code with comments explaining the code
+
+## Filename: Flower.py
+### This is a python file defining the class, attributes, and methods of the object flower.
