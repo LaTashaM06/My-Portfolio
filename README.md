@@ -17,3 +17,6 @@
 
 ## Filename: Flower.py
 ### This is a python file defining the class, attributes, and methods of the object flower.
+
+## Filename: NetworkDesign.png
+## This is screenshot displays my Network Design of the Infrastructure wireless topology. It features a modem, router, wireless connection from router,two pc's, a laptop, a printer, and a cell phone.
