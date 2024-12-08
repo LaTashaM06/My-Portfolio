@@ -23,3 +23,6 @@
 
 ## Filename: SQLQuery.png
 ### Screenshot of data mining with SQL displaying products priced under $100.
+
+## Filename: MyHTML.png & MyHTMLbottom.png
+### Screenshots displaying the top and bottom of my HTML code along with output page
